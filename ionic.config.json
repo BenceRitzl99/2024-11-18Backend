@@ -1,0 +1,7 @@
+{
+  "name": "mobilchat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
